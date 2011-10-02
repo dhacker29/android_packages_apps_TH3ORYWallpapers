@@ -16,7 +16,13 @@
  -->
 
 <resources>
-    <string-array name="wallpapers" translatable="false">        <item>blu3_girl</item>
+    <string-array name="wallpapers" translatable="false">
+        <item>drink_fire</item>
+        <item>bob_eggleton</item>
+        <item>outbreak</item>
+        <item>cubeshd</item>
+        <item>apollo11_1960s</item>
+        <item>blu3_girl</item> 
         <item>gr33n_girl</item>
         <item>nice_blue_eyes</item>
         <item>lexicon</item>
@@ -34,6 +40,11 @@
     </string-array>
 
     <string-array name="info" translatable="false">
+        <item>Drink Fire</item>
+        <item>Bob Eggleton</item>
+        <item>Outbreak</item>
+        <item>Cubes HD</item>
+        <item>Apollo 11 - 1960s</item>
         <item>Blue Girl</item>
         <item>Gr33n Girl</item>
         <item>Nice Blue Eyes</item>
