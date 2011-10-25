@@ -17,7 +17,7 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-		<item>Th3oryRomV1</item>
+		<item>th3oryrom_v1</item>
         <item>th3ory4</item>
         <item>th3ory2</item>
         <item>th3ory3</item>
