@@ -17,6 +17,11 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+		<item>Th3oryRomV1</item>
+        <item>th3ory4</item>
+        <item>th3ory2</item>
+        <item>th3ory3</item>
+        <item>apollo11_1960s</item>
         <item>drink_fire</item>
         <item>bob_eggleton</item>
         <item>outbreak</item>
@@ -40,6 +45,10 @@
     </string-array>
 
     <string-array name="info" translatable="false">
+		<item>Th3oryRom V0.1</item>
+        <item>th3ory4</item>
+        <item>th3ory2</item>
+        <item>th3ory3</item>
         <item>Drink Fire</item>
         <item>Bob Eggleton</item>
         <item>Outbreak</item>
