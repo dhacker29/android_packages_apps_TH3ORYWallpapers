@@ -17,8 +17,10 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+		<item>bionneuronic_ics</item>
 		<item>th3oryrom_v1</item>
         <item>th3ory4</item>
+        <item>th3oryrom</item>
         <item>th3ory2</item>
         <item>th3ory3</item>
         <item>apollo11_1960s</item>
@@ -45,8 +47,10 @@
     </string-array>
 
     <string-array name="info" translatable="false">
+		<item>bionNEURONic ICS</item>
 		<item>Th3oryRom V0.1</item>
         <item>th3ory4</item>
+        <item>th3oryrom</item>
         <item>th3ory2</item>
         <item>th3ory3</item>
         <item>Drink Fire</item>
